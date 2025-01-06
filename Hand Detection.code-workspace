@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "DetectionServo",
+			"path": "../../../../Documents/PlatformIO/Projects/DetectionServo"
+		}
+	],
+	"settings": {}
+}
