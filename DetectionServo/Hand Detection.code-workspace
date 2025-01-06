@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../../../source/repos/Open CV/Hand Detection"
+		},
+		{
+			"name": "DetectionServo",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
